@@ -181,3 +181,6 @@ body {
 #purple-stats {
 	color:#820080;
 }
+rect.bar {
+	transition: 1s;
+}
